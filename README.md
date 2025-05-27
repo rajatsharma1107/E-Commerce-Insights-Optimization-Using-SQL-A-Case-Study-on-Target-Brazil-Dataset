@@ -1,0 +1,1 @@
+# E-Commerce-Insights-Optimization-Using-SQL-A-Case-Study-on-Target-Brazil-Dataset
